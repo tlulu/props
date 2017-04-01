@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "tonylu",
+    "password": "",
+    "database": "props_development",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "props_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "props_production",
+    "host": "",
+    "dialect": "postgres"
+  }
+}
